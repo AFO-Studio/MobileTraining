@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7f13d69e2feebf44b86c2aa8389be5c8
+timeCreated: 1523154950
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cardenio Modern
+  fontNames:
+  - Cardenio Modern
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
